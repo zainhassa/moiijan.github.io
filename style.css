@@ -79,7 +79,7 @@ h1 {
 }
 .flip > .front p,
 .flip > .back p {
-  font-size: 1.100rem;
+  font-size: 0.9140rem;
   line-height: 160%;
   color: #999;
 }
